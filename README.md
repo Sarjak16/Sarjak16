@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Analysis and Data Visualization**
 
-- 🌱 I’m currently learning **Data Science and Data Analysis**
+- 🌱 I’m currently learning **Data Analysis in SQL**
 
 - 👯 I’m looking to collaborate on **Data Science**
 
