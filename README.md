@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science | Data Analysis**
 
-- 💬 Ask me about **HTML,CSS, JS, Python**
+- 💬 Ask me about **HTML,CSS, JS, Python**, SQL
 
 - 📫 How to reach me **rajeshworsarjak@gmail.com**
 
