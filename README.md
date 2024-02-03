@@ -4,13 +4,13 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Data Analysis and Data Visualization**
+- 🔭 I’m currently playing with **Datas and Databases**
 
-- 🌱 I’m currently learning **Data Science and Data Analysis**
+- 🌱 I’m currently learning **Data Science and Database Administration**
 
-- 👯 I’m looking to collaborate on **Data Science | Data Analysis**
+- 👯 I’m looking to collaborate on **Data Science | Data Analysis | Database**
 
-- 💬 Ask me about **HTML,CSS, JS, Python**, SQL
+- 💬 Ask me about **HTML,CSS, JS, Python, SQL**
 
 - 📫 How to reach me **rajeshworsarjak@gmail.com**
 
