@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner from Nepal.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AAmoI9l1JnkAAAAC/meme.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarjak16&label=Profile%20views&color=0e75b6&style=flat" alt="sarjak16" /> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on **Data Analysis and Data Visualization**
 
